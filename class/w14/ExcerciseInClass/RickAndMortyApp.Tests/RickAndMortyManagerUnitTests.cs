@@ -18,8 +18,8 @@ public sealed class RickAndMortyManagerUnitTests
             .ReturnsAsync(@"{
                 ""results"": [
                 {
-                    ""id"": 1,
-                    ""name"": ""Rick Sanchez"",
+                    ""id"": 331,
+                    ""name"": ""Squanchy"",
                     ""episode"": [
                         ""https://rickandmortyapi.com/api/episode/11"",
                         ""https://rickandmortyapi.com/api/episode/16"",
